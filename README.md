@@ -1,1 +1,1 @@
-# Classification_with-Kernel-methods
+# Classification-with-Kernel-methods
